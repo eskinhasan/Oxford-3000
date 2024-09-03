@@ -1,0 +1,639 @@
+{
+  "sentences":[
+    {
+    "id": 1,
+    "categoryId": 1,
+    "engSentences": "Allow me",
+    "trSentences": "Bana izin ver."
+  },
+    {
+      "engSentences": "Be calm!",
+      "trSentences": "Sakin ol!",
+      "categoryId": 1,
+      "id": 2
+    },{
+    "id": 3,
+    "categoryId": 1,
+    "engSentences": "Be careful!",
+    "trSentences": "Dikkatli ol!."
+  },{
+    "id": 4,
+    "categoryId": 1,
+    "engSentences": "Do you want to come with us?",
+    "trSentences": "Bizimle gelmek istermisin."
+  },{
+      "id": 5,
+      "categoryId": 1,
+      "engSentences": "I don’t want to.",
+      "trSentences": "İstemiyorum."
+    }
+  ,{
+      "id": 6,
+      "categoryId": 1,
+      "engSentences": "I have something to show you, come with me.",
+      "trSentences": "Sana göstereceğim bişeyler var benimle gel."
+    }
+  ,{
+      "id": 7,
+      "categoryId": 1,
+      "engSentences": "I am lost, can you help me please?",
+      "trSentences": "Kayboldum,lütfen bana yardım edermisin?"
+    },{
+      "id": 8,
+      "categoryId": 1,
+      "engSentences": "I missed you, let’s catch up.",
+      "trSentences": "Seni özledim, hadi arayı kapatalım."
+    },{
+      "id": 9,
+      "categoryId": 1,
+      "engSentences": "This is my first time seeing you, what’S your name?",
+      "trSentences": "Bu seninle ilk tanışışım ,adın ne?"
+    },
+    {
+      "id": 10,
+      "categoryId": 1,
+      "engSentences": "I’m sorry, I’m busy right now.",
+      "trSentences": "Özür dilerim ,şu anda meşgulüm"
+    },
+    {
+      "id": 11,
+      "categoryId": 1,
+      "engSentences": "Are you okay? You look pale.",
+      "trSentences": "İyi misin? Solgun görünüyorsun."
+    },
+    {
+      "id": 12,
+      "categoryId": 1,
+      "engSentences": "I’m not gonna eat, I am not hungry.",
+      "trSentences": "Yemek yemeyeceğim.Aç değilim"
+    },
+    {
+      "id": 13,
+      "categoryId": 1,
+      "engSentences": "You broke my favorite necklace, I hate you!",
+      "trSentences": "En sevdiğim kolyeyi kırdun,senden nefret ediyorum"
+    },
+    {
+      "id": 14,
+      "categoryId": 1,
+      "engSentences": "What is your name? ",
+      "trSentences": "Adın ne?"
+    }
+  ,
+    {
+      "id": 15,
+      "categoryId": 1,
+      "engSentences": "How old are you? ",
+      "trSentences": "Kaç yaşındasın?"
+    }
+  ,
+    {
+      "id": 16,
+      "categoryId": 1,
+      "engSentences": "How are you? ",
+      "trSentences": "Nasılsın?"
+    }
+  ,
+    {
+      "id": 17,
+      "categoryId": 1,
+      "engSentences": "What is your nationality?  ",
+      "trSentences": "Milliyetin ne?"
+    }
+  ,
+    {
+      "id": 18,
+      "categoryId": 1,
+      "engSentences": "Where are you from? ",
+      "trSentences": "Nerelisin?"
+    }
+  ,
+    {
+      "id": 19,
+      "categoryId": 1,
+      "engSentences": "Do you have any sisters or brothers? ",
+      "trSentences": "Erkek veya kız kardeşin var mı?"
+    }
+  ,
+    {
+      "id": 20,
+      "categoryId": 1,
+      "engSentences": "Do you study or work?  ",
+      "trSentences": "Okuyor musun yoksa çalışırmısın?"
+    }
+
+  ,
+    {
+      "id": 21,
+      "categoryId": 1,
+      "engSentences": "What do you do? ",
+      "trSentences": "Napıyorsun?"
+    }
+
+  ,
+    {
+      "id": 22,
+      "categoryId": 1,
+      "engSentences": "What do you study? ",
+      "trSentences": "Ne okuyorsun?"
+    }
+
+  ,
+    {
+      "id": 23,
+      "categoryId": 1,
+      "engSentences": "Where do you live? ",
+      "trSentences": "Nerede yaşıyorsun??"
+    }
+
+
+  ,
+    {
+      "id": 24,
+      "categoryId": 1,
+      "engSentences": "Are you single or married? ",
+      "trSentences": " Evli misin yoksa bekar mısın?"
+    }
+
+  ,
+    {
+      "id": 25,
+      "categoryId": 1,
+      "engSentences": "Do you have any children? ",
+      "trSentences": " Çocuğun var mı?"
+    }
+
+
+  ,
+    {
+      "id": 26,
+      "categoryId": 1,
+      "engSentences": "What do you like doing?  ",
+      "trSentences": " Ne yapmayı seversin?"
+    }
+
+
+  ,
+    {
+      "id": 27,
+      "categoryId": 1,
+      "engSentences": "Hi. ",
+      "trSentences": " Selam."
+    }
+
+
+  ,
+    {
+      "id": 28,
+      "categoryId": 1,
+      "engSentences": "Hello",
+      "trSentences": " Merhaba."
+    }
+
+
+
+  ,
+    {
+      "id": 29,
+      "categoryId": 1,
+      "engSentences": "Nice to meet you. ",
+      "trSentences": " Tanıştığına memnun oldum."
+    }
+  ,
+    {
+      "id": 30,
+      "categoryId": 1,
+      "engSentences": "I don’t know.",
+      "trSentences": " Bilmiyorum."
+    }
+  ,
+    {
+      "id": 31,
+      "categoryId": 1,
+      "engSentences": "You’re welcome. ",
+      "trSentences": " Rica ederim."
+    }
+  ,
+    {
+      "id": 32,
+      "categoryId": 1,
+      "engSentences": "Excuse me.  ",
+      "trSentences": " Affedersiniz"
+    }
+  ,
+    {
+      "id": 33,
+      "categoryId": 1,
+      "engSentences": "Congratulations. .  ",
+      "trSentences": " Tebrikler"
+    }
+  ,
+    {
+      "id": 34,
+      "categoryId": 1,
+      "engSentences": "Me too.   ",
+      "trSentences": " Ben de"
+    }
+  ,
+    {
+      "id": 35,
+      "categoryId": 1,
+      "engSentences": "Thanks.   ",
+      "trSentences": " Teşekkürler."
+    }
+
+  ,
+    {
+      "id": 36,
+      "categoryId": 1,
+      "engSentences": "What did you say?   ",
+      "trSentences": " Ne dediniz?"
+    }
+
+  ,
+    {
+      "id": 37,
+      "categoryId": 1,
+      "engSentences": "Take care.   ",
+      "trSentences": " Kendine iyi bak."
+    }
+
+  ,
+    {
+      "id": 38,
+      "categoryId": 1,
+      "engSentences": "Have a good day.  ",
+      "trSentences": " İyi günler."
+    }
+
+  ,
+    {
+      "id": 39,
+      "categoryId": 1,
+      "engSentences": "I played game last night   ",
+      "trSentences": " Dün gece oyun oynadım"
+    }
+
+  ,
+    {
+      "id": 40,
+      "categoryId": 1,
+      "engSentences": "And then we danced.",
+      "trSentences": " Dün gece oyun oynadım"
+    }
+  ,
+    {
+      "id": 41,
+      "categoryId": 1,
+      "engSentences": "He lost his mind.",
+      "trSentences": " Aklını kaybetti"
+    }
+  ,
+    {
+      "id": 42,
+      "categoryId": 1,
+      "engSentences": "She didn’t join us.",
+      "trSentences": " Bize katılmadı."
+    }
+  ,
+    {
+      "id": 42,
+      "categoryId": 1,
+      "engSentences": "I was too busy.",
+      "trSentences": " Çok meşgulum."
+    }
+  ,
+    {
+      "id": 42,
+      "categoryId": 1,
+      "engSentences": "Did you use this app before?",
+      "trSentences": " Bu uygulamayı daha önce kullandınız mı?."
+    }
+  ,
+    {
+      "id": 42,
+      "categoryId": 1,
+      "engSentences": "I understood you.",
+      "trSentences": " Seni anladım."
+    }
+  ,
+    {
+      "id": 43,
+      "categoryId": 1,
+      "engSentences": "Didn’t I say it to you?",
+      "trSentences": " Sana söylemedim mi?"
+    }
+  ,
+    {
+      "id": 44,
+      "categoryId": 1,
+      "engSentences": "We didn’t send you a message",
+      "trSentences": " Size mesaj göndermedik"
+    }
+  ,
+    {
+      "id": 45,
+      "categoryId": 1,
+      "engSentences": "He didn’t need this money",
+      "trSentences": " Bu paraya ihtiyacı yoktu"
+    }
+  ,
+    {
+      "id": 46,
+      "categoryId": 1,
+      "engSentences": "Did you want to leave me?",
+      "trSentences": " Beni bırakmak istedin mi?"
+    }
+  ,
+    {
+      "id": 47,
+      "categoryId": 1,
+      "engSentences": "Turkish soldiers fought for a long time ",
+      "trSentences": " Türk askerleri uzun süre savaştı"
+    }
+
+  ,
+    {
+      "id": 48,
+      "categoryId": 1,
+      "engSentences": "They weren’t happy about this situation",
+      "trSentences": " Bu duruma sevinmediler"
+    }
+
+  ,
+    {
+      "id": 49,
+      "categoryId": 1,
+      "engSentences": "He didn’t see me but I saw him",
+      "trSentences": " O beni görmedi ama ben onu gördüm"
+    }
+  ,
+    {
+      "id": 50,
+      "categoryId": 1,
+      "engSentences": "Got it, thanks",
+      "trSentences": " Anladım, teşekkürler"
+    }
+    ,
+    {
+      "id": 51,
+      "categoryId": 1,
+      "engSentences": "When will you go to the cinema?",
+      "trSentences": " Ne zaman sinemaya gideceksin?"
+    }
+  ,
+    {
+      "id": 52,
+      "categoryId": 1,
+      "engSentences": "Why did you eat my breakfast?",
+      "trSentences": " Niye/neden benim kahvaltımı yedin?"
+    }
+  ,
+    {
+      "id": 53,
+      "categoryId": 1,
+      "engSentences": "Which is your favorite book?",
+      "trSentences": " Favori kitabın hangisi?"
+    }
+  ,
+    {
+      "id": 54,
+      "categoryId": 1,
+      "engSentences": "Do you like coffee?",
+      "trSentences": " Kahve sever misin?"
+    }
+
+  ,
+    {
+      "id": 55,
+      "categoryId": 1,
+      "engSentences": "Good evening, sir. Do you have a reservation?",
+      "trSentences": " İyi akşamlar bayım. Rezervasyonunuz var mı?"
+    }
+
+  ,
+    {
+      "id": 56,
+      "categoryId": 1,
+      "engSentences": "Good evening. We don’t have a reservation. Is this seat free? ",
+      "trSentences": " İyi akşamlar. Rezervasyonumuz yok. Bu masa boş mu?"
+    }
+  ,
+    {
+      "id": 57,
+      "categoryId": 1,
+      "engSentences": "Yes, sir. Sit down, please. ",
+      "trSentences": " Evet, bayım. Oturun, lütfen."
+    }
+  ,
+    {
+      "id": 58,
+      "categoryId": 1,
+      "engSentences": " Can we have the menu, please.  ",
+      "trSentences": " Menü alabilir miyiz, lütfen."
+    }
+
+  ,
+    {
+      "id": 59,
+      "categoryId": 1,
+      "engSentences": " Can I have steak, please.   ",
+      "trSentences": " Biftek alabilir miyim, lütfen?"
+    }
+
+  ,
+    {
+      "id": 60,
+      "categoryId": 1,
+      "engSentences": "Yes, sir. Sit down, please. ",
+      "trSentences": " Evet, bayım. Oturun, lütfen."
+    },
+    {
+      "id": 61,
+      "categoryId": 1,
+      "engSentences": "Sure, madam. How would you like your steak? Rare or well-cooked?  ",
+      "trSentences": " Elbette, hanımefendi. Bifteğinizi nasıl istersiniz? Az pişmiş ya da çok pişmiş?"
+    },
+    {
+      "id": 62,
+      "categoryId": 1,
+      "engSentences": "I like it rare. ",
+      "trSentences": " Az pişmiş olsun."
+    }
+  ,
+    {
+      "id": 63,
+      "categoryId": 1,
+      "engSentences": " Would you like something to drink. ",
+      "trSentences": " İçecek ister misiniz?"
+    }
+  ,
+    {
+      "id": 64,
+      "categoryId": 1,
+      "engSentences": "I would like to have red wine. ",
+      "trSentences": " Kırmızı şarap olsun"
+    }
+  ,
+    {
+      "id": 65,
+      "categoryId": 1,
+      "engSentences": "  Is there any dish you can recommend?  ",
+      "trSentences": " Tavsiye edebileceğiniz bir yemek var mı?"
+    }
+  ,
+    {
+      "id": 66,
+      "categoryId": 1,
+      "engSentences": " Seafood pasta is very delicious, sir. ",
+      "trSentences": " Deniz ürünlü makarna çok lezzetlidir, bayım."
+    }
+
+
+  ,
+    {
+      "id": 67,
+      "categoryId": 1,
+      "engSentences": " Okay, I’ll have seafood pasta and red wine, please.   ",
+      "trSentences": "Tamam. Deniz ürünlü makarna ve kırmızı şarap alayım lütfen."
+    }
+
+
+
+
+  ],
+  "categories": [
+  {
+    "id": 1,
+    "character": "A",
+    "seoUrl": "a"
+  },
+  {
+    "id": 2,
+    "character": "B",
+    "seoUrl": "b"
+  },
+  {
+    "id": 3,
+    "character": "C",
+    "seoUrl": "C"
+  },
+  {
+    "id": 4,
+    "character": "D",
+    "seoUrl": "d"
+  },
+  {
+    "id": 5,
+    "character": "E",
+    "seoUrl": "e"
+  },
+  {
+    "id": 6,
+    "character": "F",
+    "seoUrl": "f"
+  },
+  {
+    "id": 7,
+    "character": "G",
+    "seoUrl": "g"
+  },
+  {
+    "id": 8,
+    "character": "H",
+    "seoUrl": "h"
+  },
+  {
+    "id": 9,
+    "character": "I",
+    "seoUrl": "i"
+  },
+  {
+    "id": 10,
+    "character": "J",
+    "seoUrl": "j"
+  },
+  {
+    "id": 11,
+    "character": "K",
+    "seoUrl": "k"
+  },
+  {
+    "id": 12,
+    "character": "L",
+    "seoUrl": "l"
+  },
+  {
+    "id": 13,
+    "character": "M",
+    "seoUrl": "m"
+  },
+  {
+    "id": 14,
+    "character": "N",
+    "seoUrl": "n"
+  },
+  {
+    "id": 15,
+    "character": "O",
+    "seoUrl": "o"
+  },
+  {
+    "id": 16,
+    "character": "P",
+    "seoUrl": "p"
+  },
+  {
+    "id": 17,
+    "character": "Q",
+    "seoUrl": "q"
+  },
+  {
+    "id": 18,
+    "character": "R",
+    "seoUrl": "r"
+  },
+  {
+    "id": 19,
+    "character": "S",
+    "seoUrl": "s"
+  },
+  {
+    "id": 20,
+    "character": "T",
+    "seoUrl": "t"
+  },
+  {
+    "id": 21,
+    "character": "U",
+    "seoUrl": "u"
+  },
+  {
+    "id": 22,
+    "character": "V",
+    "seoUrl": "v"
+  },
+  {
+    "id": 23,
+    "character": "W",
+    "seoUrl": "w"
+  },
+  {
+    "id": 24,
+    "character": "X",
+    "seoUrl": "x"
+  },
+  {
+    "id": 25,
+    "character": "Y",
+    "seoUrl": "y"
+  },
+  {
+    "id": 26,
+    "character": "Z",
+    "seoUrl": "z"
+  }
+]
+}
+
+

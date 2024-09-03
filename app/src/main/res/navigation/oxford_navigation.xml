@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/oxford_navigation"
+    app:startDestination="@id/baseFragment">
+
+    <fragment
+        android:id="@+id/baseFragment"
+        android:name="com.example.oxford3000.view.BaseFragment"
+        android:label="fragment_base"
+        tools:layout="@layout/fragment_base" >
+        <action
+            android:id="@+id/action_baseFragment_to_wordsFragment"
+            app:destination="@id/wordsFragment" />
+        <action
+            android:id="@+id/action_baseFragment_to_sentencesFragment"
+            app:destination="@id/sentencesFragment" />
+        <argument
+            android:name="word"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_baseFragment_to_wordSelectedFragment"
+            app:destination="@id/wordSelectedFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/wordsFragment"
+        android:name="com.example.oxford3000.view.WordsFragment"
+        android:label="fragment_words"
+        tools:layout="@layout/fragment_words" >
+        <action
+            android:id="@+id/action_wordsFragment_to_baseFragment"
+            app:destination="@id/baseFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/sentencesFragment"
+        android:name="com.example.oxford3000.view.SentencesFragment"
+        android:label="fragment_sentences"
+        tools:layout="@layout/fragment_sentences" >
+        <action
+            android:id="@+id/action_sentencesFragment_to_baseFragment"
+            app:destination="@id/baseFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/wordSelectedFragment"
+        android:name="com.example.oxford3000.view.WordSelectedFragment"
+        android:label="fragment_word_selected"
+        tools:layout="@layout/fragment_word_selected" >
+        <action
+            android:id="@+id/action_wordSelectedFragment_to_baseFragment"
+            app:destination="@id/baseFragment" />
+    </fragment>
+</navigation>
