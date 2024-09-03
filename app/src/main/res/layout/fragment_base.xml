@@ -11,7 +11,7 @@
 
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
-        android:layout_height="400dp"
+        android:layout_height="250dp"
         android:gravity="center"
         android:layout_marginTop="70dp"
         android:layout_weight="1"
@@ -32,7 +32,7 @@
 
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
-        android:layout_height="400dp"
+        android:layout_height="350dp"
         android:layout_weight="1"
         android:orientation="horizontal">
 
@@ -70,7 +70,36 @@
         android:layout_height="350dp"
         android:layout_weight="1"
         android:layout_marginBottom="70dp"
-        android:orientation="horizontal"/>
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/wordsSelectedFragment"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:contentDescription="Oxford 3000 "
+            android:layout_margin="20dp"
+            android:src="@drawable/words">
+
+        </ImageView>
+
+
+
+        <ImageView
+            android:id="@+id/sentecesSelectedFragement"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:contentDescription="Oxford 3000 "
+            android:src="@drawable/sentences">
+
+        </ImageView>
+
+
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
 
 
 
